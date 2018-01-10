@@ -1,0 +1,41 @@
+PREFAB
+
+//많이쓰는 object를 하나로 묶어 여러번 필요할 때 마다 쓸 수 있게 해주는 기능
+//같은 scene에 같은 prefab을 여러번 불러와도 하나의 prefab을 사용하는 것과 같은 메모리를 사용함
+//보통 메모리의 효율성을 위해서 사용함
+
+GetComponent
+//
+
+
+Rigidbody
+
+Mass: 질량
+Drag:직선에 대한 공기저항
+Angluar Drag: 회전에 대한 공기저항
+Use Gravity: 중력여부
+
+//자세한 내용은 ppt에 있는 url참조
+
+AddForce Mode
+
+질량 무			유
+ACCERLATION(가속) <==> FORCE(힘)
+
+
+Collider
+//충돌 여부를 판정하는 영역
+
+충돌에 필요한 요건
+
+1.충돌하는 오브젝트들은 collider존재
+2.적어도 한 오브젝트는 rigidbody존재
+
+Is Trigger OFF:충돌 감지와 물리 연산 실행
+Is Trigger ON: 충돌 감지만 실행(물리 연산 X)
+
+
+
+
+
+

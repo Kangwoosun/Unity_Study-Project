@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity_Study_3", "Unity_Study_3.csproj", "{AEEB15C7-D6AC-AE43-65B4-4D333FFA9C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEB15C7-D6AC-AE43-65B4-4D333FFA9C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEB15C7-D6AC-AE43-65B4-4D333FFA9C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEB15C7-D6AC-AE43-65B4-4D333FFA9C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEB15C7-D6AC-AE43-65B4-4D333FFA9C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
